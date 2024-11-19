@@ -1,0 +1,29 @@
+title: мой SD
+language: null
+supportedLanguages: []
+link:
+  name: new-catalog
+  pathname: "-/-/-/-/new-catalog/chto-vy-mozhete-nayti-v-etom-doke"
+  logo: null
+  title: Новый каталог
+  query: {}
+  group: null
+  code: ""
+  style: null
+  description: null
+  order: 999999
+  isCloning: false
+relatedLinks: []
+contactEmail: null
+tabsTags: null
+name: new-catalog
+readOnly: false
+properties: []
+repositoryName: new-catalog
+sourceName: null
+userInfo: null
+code: ""
+description: для тех кто хочет узнать новые промты)
+style: purple
+versions:
+  - release-1
